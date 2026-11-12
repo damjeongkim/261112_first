@@ -109,3 +109,28 @@ print("Hello World")
 >>인용 안에 인용
 >>> 인용 안에 인용 안에 인용 
 >>>> 
+
+[연결하고 싶은 문자] (https://www.naver.com/)
+`[연결하고 싶은 문자] (https://www.naver.com/)`
+
+![대체 텍스트](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPzdQJ-VzXOVlsEHzx9rbRaeI4WD3KiJ3e_n_NV6k_azGkS7bOgz4EPICHzIkf9-lyU9CJExkHXcW-DuRlno4nJCfC2WsMWClmnjqTGpuS&s=10)
+
+![대체 텍스트](https://images.unsplash.com/photo-1633967920376-33b2d94f091f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)
+
+````
+![이미지](이미지링크)(접속링크)
+
+```` 
+
+<center>가운데 정렬 </center>
+
+`| (수직 바, 파이프라인)` 
+
+|제목1|
+|----| 
+|내용1| 
+
+|:---||---| 왼쪽 정렬 (기본값)
+|---:| 오른쪽 정렬
+|:---:| 가운데 정렬 
+
