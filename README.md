@@ -1,136 +1,63 @@
-# 261112_first
 
-.md - 마크다운 
-마크다운은 엔터를 줄바꿈으로 인정하지 않는다 
+# 👋 안녕하세요! 데이터 분석가 `이름`입니다.
 
-엔터가 두 번 뒤어야 다른 문다으로 인식 
+### 📊 주니어 데이터 분석가 | Python & Statistics
 
-공백두번(..) 
+Python과 통계를 기반으로 데이터를 분석하고 인사이트를 도출하는 역량을 키우고 있습니다.
 
-같은 문단 내 줄바꿈으로 인식 
+특히 **주식 분석(Stock Market Analysis)** 과 **시계열 분석(Time Series Analysis)** 에 관심이 있습니다.
 
-문단 줄바꿈
-문단 내 줄바꿈 <br>줄바꿈 
+---
 
-# 제목1 
-## 노션 
-### 슬랙 
-#바로붙으면 # 다음에 숫자를 붙여서 이슈 호출이나 연관 가능 
-옵시디언, 메모 앱들은 # 다음으로 태그로 씀 
-(노션, 슬랙, 디스코드...#???)
+### 🛠️ 기술 스택 (Tech Stack)
 
-일반적으로 제목 6까지 있는데 제목 3까지 씀
-####### 제목 7 (제목으로 만들 수 없음)
-###### 제목 6
-##### 제목 5
-#### 제목 4
-### 제목 3
-## 제목 2
-# 제목 1 
+**💻 프로그래밍 및 데이터 분석**
 
-#,##은 구분선을 사용해서 제목과 부제목을 의미 
---- 구분선 
-___ 구분선
-+++ 구분선 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+**📈 통계 및 데이터 시각화**
 
-순서 없는 리스트 
-- 순서가 없음
-- 내가 좋아하는 건 
-    - 수박
-    - 캔디
-    - neon  
-        - ? 
-탬 등을 사용한 들여쓰기 
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-* 별표도 된다 
-+ 플러스도 됩니다 
+**⚙️ 개발 환경 및 협업 도구**
 
-순서 있는 리스트 (이게 킥이다 킼킼킼)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-1. 리센느 - with 
-2. 리센느 - 백화요란 
-4. A20 Lite - Neon
-5. A20 Soul - ???
-11. A20 May - ???
+---
 
-1.
-1.
-1.
+### 🎯 관심 분야 (Areas of Interest)
 
-이랑 똑같다는 것 
+- 📈 주식 및 금융 데이터 분석
+- ⏳ 시계열 데이터 분석 및 예측
+- 📊 통계적 분석 및 데이터 시각화
 
---- 이나 #으로 리셋 하면 reset numbering 
-1. 
-1. 
-1. 
+---
 
-<!--  컨트롤+shift 가 주석임! ctrol + / -->
+### 🌱 학습 중 (Currently Learning)
 
+- Python을 활용한 데이터 분석
+- Pandas 및 NumPy 데이터 처리
+- 기초 통계 및 탐색적 데이터 분석(EDA)
+- Git과 GitHub를 활용한 프로젝트 관리
 
-- [ ] 체크박스? - github isssue, readme 해석시 특수문법 
-- [x] 이게 체크된 것 
+---
 
+### 📂 프로젝트 (Projects)
 
-== ㄹㄹㄹ == (형관펜 - 옵시디언 문법)
+- `프로젝트 1` — 주식 데이터 분석
+- `프로젝트 2` — 시계열 데이터 탐색
+- `프로젝트 3` — Python 기반 통계 분석
 
-*기울이기* (별표로 감싸기)
-_기울이기_ (언더바로 감싸기)
-+기울이기+ (아무것도 안됨니돠!!!)
+---
 
-**진하게**
-__진하게__ 
-***기울여서 진하게***
-___기울여서 진하게___ 
+### 📫 연락처 (Contact)
 
-* 내가 원한 건 말머리표인데 
-* 붙여가지고 안 뜨거나 앞 뒤로 붙여서 기울거나 
-
-~~물결 취소서~~ 
-<mark>형광펜 테그 </mark>
-
-~~취소서~~ 
-
-마크다운을 무시하고 나타내고 싶으면 backtick 
-`` - 인라인 코드 
-`````코드박스 12345678```` 
-
-```python
-print("Hello World")
-``` 
-
-
-```mermaid 
-
-```
-
-
-> 인용 인용 
->>인용 안에 인용
->>> 인용 안에 인용 안에 인용 
->>>> 
-
-[연결하고 싶은 문자] (https://www.naver.com/)
-`[연결하고 싶은 문자] (https://www.naver.com/)`
-
-![대체 텍스트](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPzdQJ-VzXOVlsEHzx9rbRaeI4WD3KiJ3e_n_NV6k_azGkS7bOgz4EPICHzIkf9-lyU9CJExkHXcW-DuRlno4nJCfC2WsMWClmnjqTGpuS&s=10)
-
-![대체 텍스트](https://images.unsplash.com/photo-1633967920376-33b2d94f091f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)
-
-````
-![이미지](이미지링크)(접속링크)
-
-```` 
-
-<center>가운데 정렬 </center>
-
-`| (수직 바, 파이프라인)` 
-
-|제목1|
-|----| 
-|내용1| 
-
-|:---||---| 왼쪽 정렬 (기본값)
-|---:| 오른쪽 정렬
-|:---:| 가운데 정렬 
-
+- GitHub: [@아이디](https://github.com/아이디)
+- Email: `이메일 주소`
